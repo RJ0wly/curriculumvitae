@@ -11,3 +11,14 @@ body {
     margin-right: auto;
     width: 50%;
 }
+
+   h1 {
+     color: #ddd;
+     font-family: Arial;
+     text-align: center;
+     font-size: 50px;
+     border-style: double;
+     border-color: #ddd;
+     padding: 20px;
+     font-size: 60px;
+            }
